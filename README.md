@@ -9,16 +9,6 @@ These stocks are:
 - Microsoft MSFT
 - Tesla TSLA
 
-## Structure 📦
-The project results are deployed in Streamlit framework. The Streamlit files are *function_streamlit.py* and *main_streamlit.py*.
-
-We have four available directories:
-
-- **data**: transformed versions of the original stocks data
-- **img**: image for the main page of Streamlit
-- **models:** trained models to make predictions in *json* format
-- **notebooks:** different notebooks with data transformation, stock analysis and model training
-
 ## Tools 🛠️
 The whole project was made under Python 3.7.4 in Visual Studio Code. The final results are in Streamlit framework.
 
